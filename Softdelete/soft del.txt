@@ -1,0 +1,1 @@
+UPDATE `user` SET `stats`='deactive' WHERE id='2'
