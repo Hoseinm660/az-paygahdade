@@ -1,0 +1,1 @@
+INSERT INTO `user`(`firstName`, `lastName`, `nikname`) VALUES ('hosein','allahbakhsh','hoseinm660')

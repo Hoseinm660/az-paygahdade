@@ -1,0 +1,1 @@
+INSERT INTO `contactus`(`firstName`, `lastName`, `email`, `text`) VALUES ('hosein','allahbakhsh','h660@gmail.com','Salam khaste nabashid')
